@@ -17,6 +17,8 @@ namespace Joshua_Gonzales___IST331___TwoFunctions_OneWindow
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
+    /// First function: Label Inside Text Box
+    /// Second function: Variable Validator for c#
     /// </summary>
     public partial class MainWindow : Window
     {
